@@ -1,0 +1,23 @@
+body{
+
+.header {
+    background-color: #1B5C8C; /* Set your desired background color */
+    color: white; /* Set text color to contrast with the background */
+}
+
+.navbar {
+    background-color: #004477;
+}
+
+.navbar-nav .nav-link {
+    color: white;
+    font-size: larger;
+}
+
+h1 {
+    color: grey;
+    font-family:'Poppins';
+}
+/*.navbar-nav .nav-item.active .nav-link {
+    color: red; /* Change to your desired active link color */
+}
